@@ -1,8 +1,8 @@
 """
 File: DoubleBeepers.py
-Name:
+Name: Jacky
 -------------------------------
-TODO:
+Jacky:
 """
 
 from karel.stanfordkarel import *
